@@ -1,0 +1,42 @@
+body {
+  background: #ffffff;
+  background-image: url(../images/silverfox_geo2.png);
+  background-position: 50%;
+  background-repeat: no-repeat;
+  background-size: 30%;
+  font-family: sans-serif;
+}
+
+h1 {
+  color: #505050;
+  text-align: center;
+  letter-spacing: 10px;
+}
+
+h2 {
+  letter-spacing: 5px;
+}
+
+h3 {
+  color: #505050;
+  text-align: center;
+  padding: 0px;
+  margin: 0px;
+  letter-spacing: 20px
+}
+
+h5 {
+  color: #505050;
+  text-align: center;
+  padding: 0px;
+  margin: 0px;
+  letter-spacing: 8px
+}
+
+p {
+  text-align: justify;
+}
+
+.sidebar {
+
+}
