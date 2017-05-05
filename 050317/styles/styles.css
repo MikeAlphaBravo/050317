@@ -25,18 +25,30 @@ h3 {
   letter-spacing: 20px
 }
 
+.right {
+  text-align: right;
+}
+
 h5 {
-  color: #505050;
+  color: #3F9B00;
   text-align: center;
   padding: 0px;
   margin: 0px;
   letter-spacing: 8px
 }
 
+ul {
+  font-size: 13px;
+  line-height: normal;
+}
+
 p {
   text-align: justify;
 }
 
+p.main {
+  width: 75%;
+}
 .sidebar {
 
 }
