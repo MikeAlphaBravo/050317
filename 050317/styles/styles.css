@@ -1,7 +1,7 @@
 body {
   background: #ffffff;
   background-image: url(../images/silverfox_geo2.png);
-  background-position: 50%;
+  background-position: left 49% top 17%;
   background-repeat: no-repeat;
   background-size: 30%;
   font-family: sans-serif;
@@ -21,7 +21,8 @@ h3 {
   color: #505050;
   text-align: center;
   padding: 0px;
-  margin: 0px;
+  margin-bottom: 50px;
+  margin-top: 1px;
   letter-spacing: 20px
 }
 
@@ -46,9 +47,17 @@ p {
   text-align: justify;
 }
 
-p.main {
-  width: 75%;
-}
 .sidebar {
+  width: 160px;
+  height: 1000px;
+  background-color: #E6E6E6;
+  padding: 10px;
+  margin-right: 20px;
+  float: left;
+}
 
+.column {
+  width: 300px;
+  float: left;
+  margin: 10px;
 }
