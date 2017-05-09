@@ -45,6 +45,7 @@ ul {
 
 p {
   text-align: justify;
+  margin: 0px;
 }
 
 .sidebar {
@@ -57,7 +58,17 @@ p {
 }
 
 .column {
-  width: 300px;
+  width: 30%;
   float: left;
   margin: 10px;
+}
+
+.column p {
+  font-weight: lighter;
+}
+
+@media screen and (max-width: 650px) {
+  body {
+    background-color: blue
+  }
 }
